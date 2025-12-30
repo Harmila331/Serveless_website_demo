@@ -180,7 +180,7 @@ This lab aims to demonstrate how frontend applications can interact with backend
 </p>
 <br>
 
-**Your serverless web application is now deployed and running successfully! 🚀**
+**Your serverless web application is now deployed and running successfully! **
 
 <br>
 <p align="center">
